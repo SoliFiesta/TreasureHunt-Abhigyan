@@ -77,17 +77,19 @@ document.getElementById('puzzle').onclick = function () {
 
 
     document.write("<div id='rules'>")
-    document.write("<h3> Congrats Team - Utkristam</h3>")
+    document.write("<h3> Congrats Team -Abhigyan</h3>")
     document.write("<h3> Here is your next clue:</h3>")
     document.write("<ul>")
-    document.write("<li>Go to the Back stage to collect your Next clue</li>")
+    document.write("<li>Go to the Back stage to collect your Next clue  </li>")
     document.write("</ul>")=
     document.write("</div>")
     document.write("</body>")
     document.write("</html>")
-  }
+
+
   }
 };
+
 
 
 function distance(x1, y1, x2, y2) {
